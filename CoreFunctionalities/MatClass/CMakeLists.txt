@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8)
+project( matContainer )
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} )
+add_executable( matContainer matContainer.cpp )
+target_link_libraries( matContainer ${OpenCV_LIBS} )

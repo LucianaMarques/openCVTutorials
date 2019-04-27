@@ -1,0 +1,3 @@
+/home/luciana/Documents/Pesquisa/openCVTutorials/CoreFunctionalities/MatClass/CMakeFiles/rebuild_cache.dir
+/home/luciana/Documents/Pesquisa/openCVTutorials/CoreFunctionalities/MatClass/CMakeFiles/matContainer.dir
+/home/luciana/Documents/Pesquisa/openCVTutorials/CoreFunctionalities/MatClass/CMakeFiles/edit_cache.dir
