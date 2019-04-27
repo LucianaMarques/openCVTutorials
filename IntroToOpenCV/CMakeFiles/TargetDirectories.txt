@@ -1,0 +1,3 @@
+/home/luciana/Documents/Pesquisa/openCVTutorials/CMakeFiles/rebuild_cache.dir
+/home/luciana/Documents/Pesquisa/openCVTutorials/CMakeFiles/DisplayImage.dir
+/home/luciana/Documents/Pesquisa/openCVTutorials/CMakeFiles/edit_cache.dir
